@@ -2,29 +2,29 @@
 <img src="https://raw.githubusercontent.com/valgeirb/vue-popper/main/docs/public/popper.svg" height="300px">
 </p>
 
-# vue3-popper
+# vue3-popper-ts
 
 > A popover component for Vue 3
 
 ## Documentation
 
-Check out the [documentation](https://valgeirb.github.io/vue3-popper/)
+Check out the [documentation](https://valgeirb.github.io/vue3-popper-ts/)
 
-- [Getting started](https://valgeirb.github.io/vue3-popper/guide/getting-started.html)
-- [Usage](https://valgeirb.github.io/vue3-popper/guide/getting-started.html#usage)
+- [Getting started](https://valgeirb.github.io/vue3-popper-ts/guide/getting-started.html)
+- [Usage](https://valgeirb.github.io/vue3-popper-ts/guide/getting-started.html#usage)
 
 ## Install
 
 ### NPM
 
 ```bash
-npm install vue3-popper
+npm install vue3-popper-ts
 ```
 
 ### Yarn
 
 ```bash
-yarn add vue3-popper
+yarn add vue3-popper-ts
 ```
 
 ## Usage
@@ -51,7 +51,7 @@ yarn add vue3-popper
 
 <script>
   import { defineComponent } from "vue";
-  import Popper from "vue3-popper";
+  import Popper from "vue3-popper-ts";
 
   export default defineComponent({
     components: {
